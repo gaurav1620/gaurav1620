@@ -30,7 +30,7 @@ I'm [Gaurav](http://gaurav-khairnar.herokuapp.com/), a passionate sports program
 <a href="https://www.linkedin.com/in/gaurav-khairnar-393100171//" target="_blank">
   <img align="left" alt="Gaurav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/may_be_gaurav_/" target="_blank">
+<a href="https://www.instagram.com/asap_gaurav/" target="_blank">
   <img align="left" alt="Gaurav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://open.spotify.com/user/315huj43yut2rl4nu3dphxag5nsq?si=xZ5TyU7sSV2H6DlpqDTrSQ/" target="_blank">
