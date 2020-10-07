@@ -1,6 +1,6 @@
 
 ### Hi there👋
-I'm [Gaurav](http://gaurav-khairnar.herokuapp.com/), a passionate [sports programmer](https://www.codechef.com/users/gaurav_1620), ML enthusiast and Associate Tech Lead @dscpvgcoet
+I'm [Gaurav](http://gaurav1620.github.io/), a passionate [sports programmer](https://www.codechef.com/users/gaurav_1620), ML enthusiast and Associate Tech Lead @dscpvgcoet
 
 <img height=200 align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
