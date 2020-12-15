@@ -2,7 +2,6 @@
 ### Hi there👋
 I'm [Gaurav](http://gaurav1620.github.io/), a passionate [sports programmer](https://www.codechef.com/users/gaurav_1620) and ML enthusiast.
 
-<img height=200 align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
 <a href="mailto:gauravak007@gmail.com" target="_blank">
   <img align="left" alt="Gaurav's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
