@@ -44,8 +44,6 @@ I'm [Gaurav](http://gaurav1620.github.io/), a passionate [sports programmer](htt
 - Backend development - **Flask, NodeJs.**
 - Machine learning and data analytics - **Python, Pandas, Numpy.**
 - Application development using **React,React Native.**
-- Web series - **The Office,  B99,  Sherlock,  BBT,  Silicon Valley.**
-- Music - **The Weeknd,  Travis Scott,  Drake,  21 Savage.**
 - Cats <3
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
