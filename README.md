@@ -55,3 +55,9 @@ I'm [Gaurav](http://gaurav1620.github.io/), a passionate [sports programmer](htt
 
 ![gaurav1620's github stats](https://github-readme-stats.vercel.app/api?username=gaurav1620&hide_border=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav1620&layout=compact)
+
+Check out my favourite repos :<br>
+  [Vaccine Notifier](https://github.com/gaurav1620/vaccine_notifier)<br>
+  [Contest Solutions](https://github.com/gaurav1620/Competitive-Coding)<br>
+  [Neural Net Line follower bot](https://github.com/gaurav1620/ML_LineFollower)<br>
+  
